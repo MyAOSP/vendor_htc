@@ -61,7 +61,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/bin/IMCdownload:system/bin/IMCdownload \
   vendor/htc/endeavoru/proprietary/bin/make_sec_bin:system/bin/make_sec_bin \
   vendor/htc/endeavoru/proprietary/bin/poweroff_modem.sh:system/bin/poweroff_modem.sh \
-  vendor/htc/endeavoru/proprietary/bin/poweron_modem_hboot.sh:system/bin/poweron_modem_hboot.sh \
   vendor/htc/endeavoru/proprietary/bin/poweron_modem_fls.sh:system/bin/poweron_modem_fls.sh \
   vendor/htc/endeavoru/proprietary/bin/InjectionTool:system/bin/InjectionTool \
   vendor/htc/endeavoru/proprietary/bin/IMCdownload:system/bin/IMCdownload \
