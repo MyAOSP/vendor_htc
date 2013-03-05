@@ -18,6 +18,8 @@
 PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/librilpos.so:system/lib/librilpos.so \
   vendor/htc/endeavoru/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
+  vendor/htc/endeavoru/proprietary/bin/netd:system/bin/netd \
+  vendor/htc/endeavoru/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
   vendor/htc/endeavoru/proprietary/lib/libWVStreamControlAPI_L1.so:system/lib/libWVStreamControlAPI_L1.so \
   vendor/htc/endeavoru/proprietary/lib/libwvm.so:system/lib/libwvm.so \
   vendor/htc/endeavoru/proprietary/lib/libwvdrm_L1.so:system/lib/libwvdrm_L1.so \
