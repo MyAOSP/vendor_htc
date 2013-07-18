@@ -74,15 +74,10 @@ PRODUCT_COPY_FILES += \
         vendor/htc/s4-common/proprietary/etc/firmware/leia_pm4_470.fw:/system/etc/firmware/leia_pm4_470.fw \
         vendor/htc/s4-common/proprietary/etc/firmware/vidc_1080p.fw:/system/etc/firmware/vidc_1080p.fw \
         vendor/htc/s4-common/proprietary/lib/libmm-color-convertor.so:/system/lib/libmm-color-convertor.so \
-        vendor/htc/s4-common/proprietary/etc/firmware/q6.b00:/system/etc/firmware/q6.b00 \
-        vendor/htc/s4-common/proprietary/etc/firmware/q6.b01:/system/etc/firmware/q6.b01 \
-        vendor/htc/s4-common/proprietary/etc/firmware/q6.b03:/system/etc/firmware/q6.b03 \
-        vendor/htc/s4-common/proprietary/etc/firmware/q6.b04:/system/etc/firmware/q6.b04 \
-        vendor/htc/s4-common/proprietary/etc/firmware/q6.b05:/system/etc/firmware/q6.b05 \
-        vendor/htc/s4-common/proprietary/etc/firmware/q6.b06:/system/etc/firmware/q6.b06 \
-        vendor/htc/s4-common/proprietary/etc/firmware/q6.mdt:/system/etc/firmware/q6.mdt \
         vendor/htc/s4-common/proprietary/lib/libnetmgr.so:/system/lib/libnetmgr.so \
         vendor/htc/s4-common/proprietary/lib/libqc-opt.so:/system/lib/libqc-opt.so \
+        vendor/htc/s4-common/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
+        vendor/htc/s4-common/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:/system/vendor/lib/libWVStreamControlAPI_L3.so \
         vendor/htc/s4-common/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:/system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
         vendor/htc/s4-common/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:/system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
         vendor/htc/s4-common/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:/system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
